@@ -1,19 +1,33 @@
-# 🏨 Hospitality & Hotel Analytics Dashboard
+# 🏨 Hospitality & Hotel Analytics Dashboard — Power BI
 
-## Project Description
-A Power BI dashboard that provides key insights into hotel performance. It visualizes metrics like occupancy rates, revenue per room (RevPAR), and average daily rate (ADR) to support data-driven decisions.
+Power BI dashboard tracking hotel KPIs — occupancy, RevPAR, ADR, and 
+guest segmentation — for hospitality revenue management.
+
+## Objective
+Give hotel managers a single dashboard to monitor revenue performance 
+and identify high-value guest segments.
 
 ## Tools Used
-* Power BI
-* Excel (or SQL for preprocessing)
+- Power BI — Dashboard and visualizations
+- Excel — Data preprocessing
+- DAX — Revenue metric calculations
 
-## Key Insights
-* *Occupancy Rate:* The dashboard tracks and analyzes daily, weekly, and monthly occupancy trends.
-* *Revenue Metrics:* It provides a clear overview of *RevPAR* and *ADR* performance over time.
-* *Guest Segments:* It breaks down key metrics by guest type to identify high-value segments.
+## KPIs Tracked
+- Occupancy Rate — daily, weekly, monthly trends
+- RevPAR — Revenue Per Available Room
+- ADR — Average Daily Rate
+- Guest Segments — breakdown by guest type
 
-## Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+## Dashboard Features
+- Trend analysis across time periods
+- Guest segmentation by revenue contribution
+- Drill-down filters by time and guest type
+- Seasonal pattern view for revenue forecasting
+
+## Business Impact
+- Helps revenue managers set competitive pricing
+- Identifies high-value guests for targeted marketing
+- Reduces manual reporting with always-on visual analytics
 
 ## Author
-👩‍💻 *Ashrita* | [LinkedIn](https://www.linkedin.com/in/ashrita-singh-486527329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) | ✉ ashritasingh1212@gmail.com
+Ashrita Singh | https://www.linkedin.com/in/ashrita-singh
